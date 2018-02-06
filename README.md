@@ -29,7 +29,9 @@ just open the directory of project in the terminal then do the followin blew :-
 * run this commande `python manage.py runserver`
 * open your browser on this link http://127.0.0.1:8000/
 
-# To understand this project you should see this course like I did https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview
+# To understand this project you should see this course like I did
+
+https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview
 I made this project by following this course step by step
 
 # That`s it Cool
